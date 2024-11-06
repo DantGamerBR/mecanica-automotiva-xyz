@@ -1,0 +1,25 @@
+.rodape {
+    background-color: #F9B200;
+    text-align: center;
+    padding: 30px;
+}
+
+.rodape p {
+    padding: 25px;
+}
+
+.rodape ul {
+    display: flex;
+    justify-content: center;
+}
+
+.rodape ul li {
+    padding: 0 30px;
+    font-size: 2rem;
+}
+
+.rodape a {
+    transition: 0.3s;
+    padding: 5px;
+    border-radius: 10px;
+}

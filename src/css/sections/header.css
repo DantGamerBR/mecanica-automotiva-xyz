@@ -1,0 +1,25 @@
+.cabecalho {
+    background-color: #F9B200;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 10px;
+}
+
+.cabecalho h2 {
+    font-size: 3rem;
+    cursor: default;
+}
+
+.cabecalho .menu:hover {
+    cursor: pointer;
+}
+
+.cabecalho nav ul {
+    display: flex;
+}
+
+.cabecalho nav ul li {
+    padding: 0 15px;
+    font-size: 2rem;
+}
